@@ -1,0 +1,32 @@
+table{
+    margin:auto;
+}
+tr:nth-child(even){
+    background-color:rgb(220,220,220);
+}
+tr{
+    padding:5px;
+}
+td{
+    padding: 5px;
+}
+.btn-activate{
+    display:inline-block;
+    margin-left:2%;
+    margin-right:2%;
+    margin-bottom:10px;
+    margin-top:10px;
+    width:30%;
+}
+#cert-name{
+    display:inline-block;
+    width:60%;
+    margin-left:2%;
+    margin-right:2%;
+    margin-bottom:10px;
+    margin-top:10px;
+}
+.block-input-cert{
+    margin:auto;
+    display:block;
+}
